@@ -32,6 +32,14 @@ This project involves cleaning, analyzing, and visualizing an e-commerce dataset
 
 ---
 
+📊 Key Insights
+- Products marked as "low" importance were ordered the most.
+- Road shipment was the most frequent mode but had lower on-time delivery.
+- Block A had the lowest on-time delivery rate.
+- Customers with more care calls tended to experience more delivery delays.
+
+---
+
 ## Contact
 
 For any questions or suggestions, feel free to reach out!
