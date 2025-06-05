@@ -40,6 +40,26 @@ This project involves cleaning, analyzing, and visualizing an e-commerce dataset
 
 ---
 
+## Key Visualizations
+
+### Customer Service & Ratings
+![Customer Service & Ratings](images/Customer Service & Ratings.jpg)
+
+### Product Importance
+![Product Importance](images/Product Importance.jpg)
+
+### Purchases & Weight
+![Purchases & Weight](images/Purchases & Weight.jpg)
+
+### Shipping Modes
+![Shipping Modes](images/Shipping Modes.jpg)
+
+### Warehouse & Discounts
+![Warehouse & Discounts](images/Warehouse & Discounts.jpg)
+
+
+---
+
 ## Contact
 
 For any questions or suggestions, feel free to reach out!
